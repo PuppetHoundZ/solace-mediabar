@@ -7,6 +7,7 @@ Do not run as root.
 
 
 -- WHAT THIS DOES -----------------------------------------------------------
+
 Installs apt deps, writes the GUI Python script, desktop shortcut, and SVG
 icon. Desktop icon launches GUI directly via:
   Exec=python3 ~/.local/bin/media-control-solace
